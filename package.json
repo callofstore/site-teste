@@ -1,0 +1,17 @@
+{
+  "name": "call-of-store-unificado",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot-tickets.js",
+  "scripts": {
+    "start": "node bot-tickets.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "1921113296": {
+    "status": "aguardando_comprovante",
+    "pedido": {
+      "pedidoId": 1921113296,
+      "cliente": {
+        "nome": "pedro",
+        "discord": "ftb_flow8247"
+      },
+      "jogos": [
+        {
+          "id": 55,
+          "nome": "Far Cry® 5",
+          "preco": 19.9,
+          "quantidade": 1
+        }
+      ],
+      "total": 19.9,
+      "discordUser": "ftb_flow8247",
+      "email": "henriquepedrobarreto196@gmail.com",
+      "ticketThreadId": "1477438647140876489"
+    },
+    "createdAt": 1772319211132,
+    "canalId": "1477438647140876489",
+    "mp": {
+      "paymentId": 148297514334,
+      "status": "pending"
+    },
+    "compradorId": null,
+    "comprovante": null,
+    "key": null,
+    "ticketLiberado": false,
+    "acaoEnviarPostada": false
+  }
+}
