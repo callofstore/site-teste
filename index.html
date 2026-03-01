@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Call of Store | Jogos Digitais para PC</title>
+  <meta name="description" content="Catálogo profissional de jogos digitais para PC com checkout integrado ao bot do Discord, vitrine premium e fluxo real de compra." />
+  <meta name="theme-color" content="#0f172a" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="site.css">
+  <link rel="stylesheet" href="carrinho.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand-cluster">
+        <a class="brand" href="#topo" aria-label="Ir para o topo da página">
+          <div class="brand-mark">CS</div>
+          <div class="brand-text">
+            <strong>Call of Store</strong>
+            <span>Catálogo premium • checkout no Discord</span>
+          </div>
+        </a>
+
+        <nav class="primary-nav" aria-label="Navegação principal">
+          <a href="#catalogo">Descobrir</a>
+          <a href="#catalogo">Catálogo</a>
+          <a href="#rodape">Discord</a>
+        </nav>
+      </div>
+
+      <div class="header-actions">
+        <div class="search-wrap">
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+          <input id="searchInput" class="search-input" type="text" placeholder="Pesquisar jogo, categoria ou estilo..." />
+        </div>
+
+        <button id="floatingCart" class="floating-cart header-cart" aria-label="Abrir carrinho">
+          <span class="floating-cart-tooltip">Ver carrinho</span>
+          <i class="fa-solid fa-cart-shopping"></i>
+          <span class="floating-cart-count" id="floatingCartCount">0</span>
+        </button>
+
+        <div class="login-wrap">
+          <button class="ghost-btn" id="loginToggleBtn" aria-expanded="false" aria-controls="loginMenu" type="button">
+            <i class="fa-solid fa-right-to-bracket"></i> Entrar
+          </button>
+
+          <div class="login-menu" id="loginMenu" aria-hidden="true">
+            <a class="login-option" href="https://discord.com/login" target="_blank" rel="noopener noreferrer">
+              <i class="fa-brands fa-discord"></i>
+              <span>Entrar com Discord</span>
+            </a>
+            <a class="login-option" href="https://accounts.google.com/" target="_blank" rel="noopener noreferrer">
+              <i class="fa-brands fa-google"></i>
+              <span>Entrar com Google</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="subnav">
+      <div class="container subnav-inner">
+        <a class="subnav-link active" href="#catalogo">Descobrir</a>
+        <a class="subnav-link" href="#catalogo">Mais fortes</a>
+        <a class="subnav-link" href="#catalogo">Melhor custo-benefício</a>
+        <a class="subnav-link" href="#catalogoFiltros">Categorias</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="topo">
+    <section class="hero epic-hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <span class="hero-kicker">LOJA DE JOGOS PARA PC</span>
+          <h1>Uma loja bonita, profissional e pronta para vender com integração ao Discord.</h1>
+          <p>
+            Seu catálogo agora tem visual premium, filtros rápidos, vitrine em destaque, carrinho moderno e checkout ligado ao seu bot para abrir o pedido do jeito certo.
+          </p>
+
+          <div class="hero-cta-row">
+            <a class="primary-btn" href="#catalogo">
+              <i class="fa-solid fa-compass"></i> Explorar catálogo
+            </a>
+            <a class="secondary-btn" href="#rodape">
+              <i class="fa-brands fa-discord"></i> Ver Discord
+            </a>
+          </div>
+
+          <div class="hero-note-list" aria-label="Diferenciais da loja">
+            <span><i class="fa-solid fa-bolt"></i> Entrega digital</span>
+            <span><i class="fa-solid fa-shield-halved"></i> Fluxo seguro</span>
+            <span><i class="fa-brands fa-discord"></i> Ticket no Discord</span>
+          </div>
+
+          <div class="hero-metrics">
+            <div class="hero-metric">
+              <strong id="metricProducts">0</strong>
+              <span>Jogos ativos no catálogo</span>
+            </div>
+            <div class="hero-metric">
+              <strong>Checkout</strong>
+              <span>Checkout direto no bot</span>
+            </div>
+            <div class="hero-metric">
+              <strong>Visual</strong>
+              <span>Vitrine premium e responsiva</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-spotlight" id="heroSpotlight"></div>
+      </div>
+    </section>
+
+    <section class="trust-strip" aria-label="Diferenciais">
+      <div class="container trust-grid">
+        <article class="trust-item">
+          <i class="fa-solid fa-shield-halved"></i>
+          <div>
+            <strong>Layout confiável</strong>
+            <span>Visual mais sólido, limpo e com cara de loja profissional.</span>
+          </div>
+        </article>
+        <article class="trust-item">
+          <i class="fa-solid fa-layer-group"></i>
+          <div>
+            <strong>Catálogo organizado</strong>
+            <span>Busca, filtros por categoria e ordenação direta.</span>
+          </div>
+        </article>
+        <article class="trust-item">
+          <i class="fa-solid fa-bag-shopping"></i>
+          <div>
+            <strong>Carrinho + bot integrados</strong>
+            <span>Pedido enviado ao bot, PIX gerado e ticket interno criado.</span>
+          </div>
+        </article>
+        <article class="trust-item">
+          <i class="fa-solid fa-mobile-screen-button"></i>
+          <div>
+            <strong>Totalmente responsivo</strong>
+            <span>Boa navegação no desktop, tablet e celular.</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="catalog" id="catalogo">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <p class="section-kicker">Biblioteca completa</p>
+            <h2 class="section-title">Jogos para você explorar</h2>
+          </div>
+          <div class="section-meta" id="resultsInfo">Carregando catálogo...</div>
+        </div>
+
+        <div class="catalog-toolbar" id="catalogoFiltros">
+          <div class="filter-pills" id="filterPills" aria-label="Filtrar por categoria">
+            <button class="filter-pill active" type="button" data-filter="all">Todos</button>
+            <button class="filter-pill" type="button" data-filter="acao">Ação</button>
+            <button class="filter-pill" type="button" data-filter="terror">Terror</button>
+            <button class="filter-pill" type="button" data-filter="aventura">Aventura</button>
+            <button class="filter-pill" type="button" data-filter="rpg">RPG</button>
+            <button class="filter-pill" type="button" data-filter="corrida">Corrida</button>
+            <button class="filter-pill" type="button" data-filter="esportes">Esportes</button>
+          </div>
+
+          <label class="sort-field" for="sortSelect">
+            <span>Ordenar por</span>
+            <select id="sortSelect" class="sort-select">
+              <option value="featured">Destaques</option>
+              <option value="price-asc">Menor preço</option>
+              <option value="price-desc">Maior preço</option>
+              <option value="name">A-Z</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="catalogRoot"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="rodape">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand footer-brand">
+          <div class="brand-mark">CS</div>
+          <div class="brand-text">
+            <strong>Call of Store</strong>
+            <span>Catálogo digital com visual profissional</span>
+          </div>
+        </div>
+        <p class="footer-copy">
+          Estrutura pronta para vender melhor: mais organização, mais confiança visual e um fluxo de compra mais claro.
+        </p>
+      </div>
+
+      <div class="footer-column">
+        <h3>Navegação</h3>
+        <a href="#topo">Topo</a>
+        <a href="#catalogo">Catálogo</a>
+        <a href="#catalogoFiltros">Filtros</a>
+      </div>
+
+      <div class="footer-column">
+        <h3>Atendimento</h3>
+        <span>Atendimento pelo Discord</span>
+        <span>Entrega após confirmação</span>
+        <span>PIX + ticket automático</span>
+      </div>
+    </div>
+  </footer>
+
+  <div id="productOverlay" class="overlay" aria-hidden="true">
+    <div class="modal modal-product" role="dialog" aria-modal="true" aria-labelledby="productModalTitle">
+      <div class="modal-head">
+        <h3 id="productModalTitle">Informações do jogo</h3>
+        <button class="close-btn" id="closeProductModal" aria-label="Fechar" type="button">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div id="productModalBody"></div>
+    </div>
+  </div>
+
+  <div id="cartOverlay" class="overlay" aria-hidden="true">
+    <div class="modal modal-cart" role="dialog" aria-modal="true" aria-labelledby="cartModalTitle">
+      <div class="modal-head">
+        <h3 id="cartModalTitle">Seu carrinho</h3>
+        <button class="close-btn" id="closeCartModal" aria-label="Fechar" type="button">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div id="cartModalBody"></div>
+    </div>
+  </div>
+
+
+  <div id="checkoutOverlay" class="overlay" aria-hidden="true">
+    <div class="modal modal-checkout" role="dialog" aria-modal="true" aria-labelledby="checkoutModalTitle">
+      <div class="modal-head">
+        <h3 id="checkoutModalTitle">Finalizar compra</h3>
+        <button class="close-btn" id="closeCheckoutModal" aria-label="Fechar" type="button">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div id="checkoutModalBody"></div>
+    </div>
+  </div>
+
+  <div class="toast-wrap" id="toastWrap"></div>
+
+  <script src="store-config.js" defer></script>
+  <script src="game-direct-images.js" defer></script>
+  <script src="game-image-links.js" defer></script>
+  <script src="site.js" defer></script>
+  <script src="carrinho.js" defer></script>
+</body>
+</html>

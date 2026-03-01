@@ -1,0 +1,1286 @@
+[
+  {
+    "title": "Silent Hill f",
+    "type": "steam_cdn",
+    "app_id": 2947440,
+    "images": [
+      "https://images.steamusercontent.com/ugc/14052138405856650608/EAE4C66C298320FA44E1F1ED19284323E54036C9/?ima=fit&imcolor=%23000000&imh=576&impolicy=Letterbox&imw=1024&letterbox=true",
+      "https://images.steamusercontent.com/ugc/16047425863844073725/269099262A5A7B38D1ADC86E2DB640F4C5466618/?ima=fit&imcolor=%23000000&imh=537&impolicy=Letterbox&imw=1024&letterbox=true",
+      "https://images.steamusercontent.com/ugc/14489598658889194216/216DF9CAF8F41C83BF4C4B66D982CEE1E67C0AF8/?ima=fit&imcolor=%23000000&imh=576&impolicy=Letterbox&imw=1024&letterbox=true",
+      "https://images.steamusercontent.com/ugc/13469935343263321539/1CC074592C63E003478D7FFA4B668B893A965929/?ima=fit&imcolor=%23000000&imh=576&impolicy=Letterbox&imw=1024&letterbox=true",
+      "https://images.steamusercontent.com/ugc/15971752412653257692/6E7C6C9BA37C8A13A8A2B74FDEE07AE7FC3DF0C1/?ima=fit&imcolor=%23000000&imh=576&impolicy=Letterbox&imw=1024&letterbox=true"
+    ]
+  },
+  {
+    "title": "Dying Light: The Beast",
+    "type": "steam_cdn",
+    "app_id": 3008130,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3008130/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3008130/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3008130/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3008130/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3008130/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Hollow Knight: Silksong",
+    "type": "steam_cdn",
+    "app_id": 1030300,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "No, I'm not a Human",
+    "type": "steam_cdn",
+    "app_id": 3180070,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Metal Gear Solid Δ Snake Eater",
+    "type": "steam_cdn",
+    "app_id": 2417610,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Hell is Us",
+    "type": "steam_cdn",
+    "app_id": 1620730,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "type": "steam_cdn",
+    "app_id": 1903340,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Marvel's Spider-Man 2",
+    "type": "steam_cdn",
+    "app_id": 2651280,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Kingdom Come: Deliverance II",
+    "type": "steam_cdn",
+    "app_id": 1771300,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Elden Ring",
+    "type": "steam_cdn",
+    "app_id": 1245620,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Last of Us™ Part I",
+    "type": "steam_cdn",
+    "app_id": 1888930,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Last of Us™ Parte II Remastered",
+    "type": "steam_cdn",
+    "app_id": 2531310,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "type": "steam_cdn",
+    "app_id": 2215430,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "type": "steam_cdn",
+    "app_id": 2050650,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Euro Truck Simulator 2",
+    "type": "steam_cdn",
+    "app_id": 227300,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Days Gone",
+    "type": "steam_cdn",
+    "app_id": 1259420,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Crew Motorfest",
+    "type": "steam_cdn",
+    "app_id": 2698940,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2698940/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2698940/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2698940/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2698940/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2698940/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Kingdom Come: Deliverance",
+    "type": "steam_cdn",
+    "app_id": 379430,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Elden Ring Nightreign",
+    "type": "steam_cdn",
+    "app_id": 2622380,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2622380/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2622380/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2622380/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2622380/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2622380/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Need for Speed™ Most Wanted",
+    "type": "steam_cdn",
+    "app_id": 1262560,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Forza Horizon 5",
+    "type": "steam_cdn",
+    "app_id": 1551360,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Forza Horizon 4",
+    "type": "steam_cdn",
+    "app_id": 1293830,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "SILENT HILL 2",
+    "type": "steam_cdn",
+    "app_id": 2124490,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2124490/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2124490/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2124490/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2124490/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2124490/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "type": "steam_cdn",
+    "app_id": 1643320,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "type": "steam_cdn",
+    "app_id": 287700,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Metro Exodus",
+    "type": "steam_cdn",
+    "app_id": 412020,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "type": "steam_cdn",
+    "app_id": 2623190,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Ready or Not",
+    "type": "steam_cdn",
+    "app_id": 1144200,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Stray",
+    "type": "steam_cdn",
+    "app_id": 1332010,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Split Fiction",
+    "type": "steam_cdn",
+    "app_id": 2001120,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "type": "steam_cdn",
+    "app_id": 489830,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Detroit: Become Human",
+    "type": "steam_cdn",
+    "app_id": 1222140,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "type": "steam_cdn",
+    "app_id": 1086940,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "BLEACH Rebirth of Souls",
+    "type": "steam_cdn",
+    "app_id": 1689620,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1689620/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1689620/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1689620/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1689620/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1689620/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Devil May Cry 5",
+    "type": "steam_cdn",
+    "app_id": 601150,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Devil May Cry 4",
+    "type": "steam_cdn",
+    "app_id": 45700,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Horizon Forbidden West™ Complete Edition",
+    "type": "steam_cdn",
+    "app_id": 2420110,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Horizon Zero Dawn™ Complete Edition",
+    "type": "steam_cdn",
+    "app_id": 1151640,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Dragon Ball: Sparking! Zero",
+    "type": "steam_cdn",
+    "app_id": 1790600,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1790600/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1790600/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1790600/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1790600/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1790600/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Death Stranding Director's Cut",
+    "type": "steam_cdn",
+    "app_id": 1850570,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "171",
+    "type": "steam_cdn",
+    "app_id": 1269370,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "DARK SOULS™ II",
+    "type": "steam_cdn",
+    "app_id": 236430,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "DARK SOULS™ III",
+    "type": "steam_cdn",
+    "app_id": 374320,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "DARK SOULS™: REMASTERED",
+    "type": "steam_cdn",
+    "app_id": 570940,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+    "type": "steam_cdn",
+    "app_id": 814380,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Shadow of the Tomb Raider: Definitive Edition",
+    "type": "steam_cdn",
+    "app_id": 750920,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "type": "steam_cdn",
+    "app_id": 1817190,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Marvel's Spider-Man Remastered",
+    "type": "steam_cdn",
+    "app_id": 1817070,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto IV: The Complete Edition",
+    "type": "steam_cdn",
+    "app_id": 12210,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil Village",
+    "type": "steam_cdn",
+    "app_id": 1196590,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil 3",
+    "type": "steam_cdn",
+    "app_id": 952060,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil 2",
+    "type": "steam_cdn",
+    "app_id": 883710,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil 7 Biohazard",
+    "type": "steam_cdn",
+    "app_id": 418370,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Far Cry® 5",
+    "type": "steam_cdn",
+    "app_id": 552520,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Far Cry® 4",
+    "type": "steam_cdn",
+    "app_id": 298110,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Far Cry® 3",
+    "type": "steam_cdn",
+    "app_id": 220240,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "UNCHARTED™: Legacy of Thieves Collection",
+    "type": "steam_cdn",
+    "app_id": 1659420,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "RoadCraft",
+    "type": "steam_cdn",
+    "app_id": 2104890,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2104890/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2104890/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2104890/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2104890/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2104890/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "BeamNG.drive",
+    "type": "steam_cdn",
+    "app_id": 284160,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/284160/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/284160/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/284160/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/284160/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/284160/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Starfield",
+    "type": "steam_cdn",
+    "app_id": 1716740,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Mortal Kombat 11",
+    "type": "steam_cdn",
+    "app_id": 976310,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "type": "steam_cdn",
+    "app_id": 1020790,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "type": "steam_cdn",
+    "app_id": 349040,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Palworld",
+    "type": "steam_cdn",
+    "app_id": 1623730,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "HumanitZ",
+    "type": "steam_cdn",
+    "app_id": 1766060,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Project Zomboid",
+    "type": "steam_cdn",
+    "app_id": 108600,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Overcooked",
+    "type": "steam_cdn",
+    "app_id": 448510,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Farming Simulator 22",
+    "type": "steam_cdn",
+    "app_id": 1248130,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Car Mechanic Simulator 2021",
+    "type": "steam_cdn",
+    "app_id": 1190000,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Assetto Corsa",
+    "type": "steam_cdn",
+    "app_id": 244210,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Nioh 2 – The Complete Edition",
+    "type": "steam_cdn",
+    "app_id": 1325200,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Hollow Knight",
+    "type": "steam_cdn",
+    "app_id": 367520,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Cuphead",
+    "type": "steam_cdn",
+    "app_id": 268910,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Sonic Mania",
+    "type": "steam_cdn",
+    "app_id": 584400,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Crash Bandicoot™ N. Sane Trilogy",
+    "type": "steam_cdn",
+    "app_id": 731490,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/731490/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/731490/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/731490/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/731490/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/731490/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Riders Republic",
+    "type": "steam_cdn",
+    "app_id": 2290180,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Tony Hawk's™ Pro Skater™ 1 + 2",
+    "type": "steam_cdn",
+    "app_id": 2395210,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Stardew Valley",
+    "type": "steam_cdn",
+    "app_id": 413150,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Sifu",
+    "type": "steam_cdn",
+    "app_id": 2138710,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Schedule I",
+    "type": "steam_cdn",
+    "app_id": 3164500,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Resident Evil 4 (2005)",
+    "type": "steam_cdn",
+    "app_id": 254700,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/254700/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/254700/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/254700/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/254700/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/254700/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Dead by Daylight",
+    "type": "steam_cdn",
+    "app_id": 381210,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Evil Within 2",
+    "type": "steam_cdn",
+    "app_id": 601430,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Evil Within",
+    "type": "steam_cdn",
+    "app_id": 268050,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Need for Speed™ Heat",
+    "type": "steam_cdn",
+    "app_id": 1222680,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "The Forest",
+    "type": "steam_cdn",
+    "app_id": 242760,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "F1® Manager 2023",
+    "type": "steam_cdn",
+    "app_id": 2287220,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2287220/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2287220/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2287220/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2287220/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2287220/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "F1® Manager 2022",
+    "type": "steam_cdn",
+    "app_id": 1708520,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1708520/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1708520/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1708520/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1708520/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1708520/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "F1® 2021",
+    "type": "steam_cdn",
+    "app_id": 1134570,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "F1® 2020",
+    "type": "steam_cdn",
+    "app_id": 1080110,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "HITMAN World of Assassination",
+    "type": "steam_cdn",
+    "app_id": 1659040,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Hitman: Absolution™",
+    "type": "steam_cdn",
+    "app_id": 203140,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Mafia III: Definitive Edition",
+    "type": "steam_cdn",
+    "app_id": 360430,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Mafia II: Definitive Edition",
+    "type": "steam_cdn",
+    "app_id": 1030830,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030830/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030830/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030830/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030830/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030830/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Mafia: Definitive Edition",
+    "type": "steam_cdn",
+    "app_id": 1030840,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Dead Island Definitive Edition",
+    "type": "steam_cdn",
+    "app_id": 383150,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/383150/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Dead Island 2",
+    "type": "steam_cdn",
+    "app_id": 934700,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/934700/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/934700/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/934700/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/934700/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/934700/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Metro: Last Light Redux",
+    "type": "steam_cdn",
+    "app_id": 287390,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287390/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287390/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287390/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287390/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/287390/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Metro 2033 Redux",
+    "type": "steam_cdn",
+    "app_id": 286690,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Fallout 4",
+    "type": "steam_cdn",
+    "app_id": 377160,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Fallout 76",
+    "type": "steam_cdn",
+    "app_id": 1151340,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Saint Seiya: Soldiers' Soul",
+    "type": "steam_cdn",
+    "app_id": 348710,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/348710/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/348710/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/348710/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/348710/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/348710/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Valheim",
+    "type": "steam_cdn",
+    "app_id": 892970,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "ULTRAKILL",
+    "type": "steam_cdn",
+    "app_id": 1229490,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "type": "steam_cdn",
+    "app_id": 732690,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "Sons Of The Forest",
+    "type": "steam_cdn",
+    "app_id": 1326470,
+    "images": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/header.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_184x69.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_231x87.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_467x181.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_616x353.jpg"
+    ]
+  },
+  {
+    "title": "TESTE",
+    "type": "placeholder",
+    "app_id": null,
+    "images": [
+      "https://placehold.co/1200x630/png?text=TESTE+1",
+      "https://placehold.co/1200x630/png?text=TESTE+2",
+      "https://placehold.co/1200x630/png?text=TESTE+3",
+      "https://placehold.co/1200x630/png?text=TESTE+4",
+      "https://placehold.co/1200x630/png?text=TESTE+5"
+    ]
+  }
+]
